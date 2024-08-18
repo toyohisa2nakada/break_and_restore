@@ -1,9 +1,8 @@
 # break_and_restore
 
 ![broken_sample](https://github.com/user-attachments/assets/4476b43b-83d1-491f-ab3f-98be63fa897e)
-破壊の例
 
-リストアの例は、開発中
+破壊の例
 
 参考:
 
