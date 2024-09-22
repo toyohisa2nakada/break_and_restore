@@ -1,8 +1,9 @@
 # 破壊と修復のAIモデル開発
 
-|破壊の例|有限要素法による応力分布|
-|-------|----------------------|
-|<img src="https://github.com/user-attachments/assets/4476b43b-83d1-491f-ab3f-98be63fa897e" width="180px">|<img src="https://github.com/user-attachments/assets/30ddaa74-9ff7-458a-8f03-a4f0b8ea9e80" width="180px">|
+|ボロノイ分割による破壊|有限要素法による応力分布|Flow-basedモデルによる生成と崩壊|
+|-------|----------------------|------------------------------|
+|<img src="https://github.com/user-attachments/assets/4476b43b-83d1-491f-ab3f-98be63fa897e" width="180px">|<img src="https://github.com/user-attachments/assets/30ddaa74-9ff7-458a-8f03-a4f0b8ea9e80" width="180px">|<img src="https://github.com/user-attachments/assets/6e4c60cd-8f46-49d6-b84c-c55b767d3abd" width="180px">|
+
 
 <hr>
 <h2>関連プロジェクト</h2>
